@@ -1,0 +1,14 @@
+﻿{
+  "name": "pragram language",
+  "item": [
+    {
+      "language": "C#",
+      "tool": "visual studio"
+    },
+    {
+      "language": "JAVA",
+      "tool": "Elcipse"
+    }
+  ] 
+
+}
